@@ -1,0 +1,54 @@
+{
+  "name": "yunren",
+  "version": "1.0.3",
+  "description": "yunren tools",
+  "productName": "云任工具",
+  "author": "hzh",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build&&node jsOb/index.js"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.4",
+    "@vueuse/head": "^2.0.0",
+    "axios": "^1.2.1",
+    "check-password-strength": "^2.0.10",
+    "crypto-js": "^4.2.0",
+    "dom-serializer": "^2.0.0",
+    "domhandler": "^5.0.3",
+    "echarts": "^5.5.0",
+    "emoji-regex": "^10.3.0",
+    "handsontable": "^14.3.0",
+    "html2canvas": "^1.4.1",
+    "htmlparser2": "^9.1.0",
+    "javascript-obfuscator": "^4.1.0",
+    "jsqr": "^1.4.0",
+    "less": "^4.2.0",
+    "md5": "^2.3.0",
+    "pinia": "^2.0.11",
+    "qrcode": "^1.5.3",
+    "quasar": "^2.8.0",
+    "terser": "^5.31.0",
+    "three": "^0.164.1",
+    "vditor": "^3.10.4",
+    "vue": "^3.4.18",
+    "vue-draggable-resizable": "^3.0.0",
+    "vue-i18n": "^9.0.0",
+    "vue-router": "^4.0.12",
+    "xlsx": "^0.18.5",
+    "xlsx-js-style": "1.2.0"
+  },
+  "devDependencies": {
+    "@intlify/vite-plugin-vue-i18n": "^3.3.1",
+    "@quasar/app-vite": "^1.8.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.14"
+  },
+  "engines": {
+    "node": "^20 || ^18 || ^16",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

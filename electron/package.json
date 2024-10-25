@@ -1,0 +1,31 @@
+{
+  "name": "yunren_tools",
+  "version": "1.0.3",
+  "description": "yunren tools for windows",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "pack:win32": "electron-packager . yunren_tools --out=./out/win64 --platform=win32 --arch=x64 --app-version=1.0.3 --overwrite --electron-version=30.0.9 --icon=./logo.ico --asar --ignore=toTop.exe --ignore=public --ignore=webtorrent_commonjs --ignore=jsMor --ignore=temp --ignore=images --ignore=jsMor --ignore=ffmpeg --ignore=copy.bat --appCopyright=yunren-hzh",
+    "package": "node jsMor/index.js"
+  },
+  "author": "huangzhihao",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/plugin-syntax-import-attributes": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "asarmor": "3.0.0",
+    "babel-loader": "^9.1.3",
+    "babel-plugin-add-module-exports": "^1.0.4",
+    "electron": "30.0.9",
+    "electron-packager": "17.1.2"
+  },
+  "dependencies": {
+    "archiver": "7.0.1",
+    "cors": "2.8.5",
+    "express": "4.19.2",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}

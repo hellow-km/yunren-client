@@ -1,0 +1,2019 @@
+{
+  "code": 0,
+  "message": "请求成功",
+  "data": {
+    "scoreRankList": [
+      {
+        "sort": 1,
+        "player": {
+          "id": 17557,
+          "nickname": "yoooooo",
+          "updatedAt": "2024-05-20T14:43:17.000Z"
+        },
+        "score": 37142569,
+        "lastPlayedAt": "2024-05-20T14:43:17.000Z"
+      },
+      {
+        "sort": 2,
+        "player": {
+          "id": 53455,
+          "nickname": "MOKO",
+          "updatedAt": "2024-05-20T14:50:02.000Z"
+        },
+        "score": 36879044,
+        "lastPlayedAt": "2024-05-20T14:50:02.000Z"
+      },
+      {
+        "sort": 3,
+        "player": {
+          "id": 891,
+          "nickname": "球球飞舞乐",
+          "updatedAt": "2024-05-20T13:39:28.000Z"
+        },
+        "score": 36496334,
+        "lastPlayedAt": "2024-05-20T13:39:28.000Z"
+      },
+      {
+        "sort": 4,
+        "player": {
+          "id": 33849,
+          "nickname": "去码头整的薯条",
+          "updatedAt": "2024-02-11T13:55:19.000Z"
+        },
+        "score": 36434005,
+        "lastPlayedAt": "2024-02-11T13:55:19.000Z"
+      },
+      {
+        "sort": 5,
+        "player": {
+          "id": 49475,
+          "nickname": "无言-",
+          "updatedAt": "2024-02-25T17:58:34.000Z"
+        },
+        "score": 36145853,
+        "lastPlayedAt": "2024-02-25T17:58:34.000Z"
+      },
+      {
+        "sort": 6,
+        "player": {
+          "id": 361,
+          "nickname": "岁岁-平安",
+          "updatedAt": "2024-05-12T14:19:35.000Z"
+        },
+        "score": 36133829,
+        "lastPlayedAt": "2024-05-12T14:19:35.000Z"
+      },
+      {
+        "sort": 7,
+        "player": {
+          "id": 1253,
+          "nickname": "等灯等灯",
+          "updatedAt": "2024-03-05T15:11:44.000Z"
+        },
+        "score": 35995164,
+        "lastPlayedAt": "2024-03-05T15:11:44.000Z"
+      },
+      {
+        "sort": 8,
+        "player": {
+          "id": 22508,
+          "nickname": "嘉仁",
+          "updatedAt": "2024-05-20T12:23:17.000Z"
+        },
+        "score": 35650526,
+        "lastPlayedAt": "2024-05-20T12:23:17.000Z"
+      },
+      {
+        "sort": 9,
+        "player": {
+          "id": 173,
+          "nickname": "last新",
+          "updatedAt": "2024-05-20T14:33:01.000Z"
+        },
+        "score": 35533098,
+        "lastPlayedAt": "2024-05-20T14:33:01.000Z"
+      },
+      {
+        "sort": 10,
+        "player": {
+          "id": 5360,
+          "nickname": "萝卜神降临",
+          "updatedAt": "2024-05-20T13:10:06.000Z"
+        },
+        "score": 35488219,
+        "lastPlayedAt": "2024-05-20T13:10:06.000Z"
+      },
+      {
+        "sort": 11,
+        "player": {
+          "id": 312,
+          "nickname": "哒哒利亚",
+          "updatedAt": "2024-05-20T12:56:22.000Z"
+        },
+        "score": 35302046,
+        "lastPlayedAt": "2024-05-20T12:56:22.000Z"
+      },
+      {
+        "sort": 12,
+        "player": {
+          "id": 21300,
+          "nickname": "无晴雨润乐",
+          "updatedAt": "2024-05-20T12:36:39.000Z"
+        },
+        "score": 35109500,
+        "lastPlayedAt": "2024-05-20T12:36:39.000Z"
+      },
+      {
+        "sort": 13,
+        "player": {
+          "id": 2534,
+          "nickname": "科马提火山岩",
+          "updatedAt": "2024-05-19T13:36:39.000Z"
+        },
+        "score": 34975678,
+        "lastPlayedAt": "2024-05-19T13:36:39.000Z"
+      },
+      {
+        "sort": 14,
+        "player": {
+          "id": 30908,
+          "nickname": "憨米敦",
+          "updatedAt": "2024-05-03T14:32:13.000Z"
+        },
+        "score": 34884197,
+        "lastPlayedAt": "2024-05-03T14:32:13.000Z"
+      },
+      {
+        "sort": 15,
+        "player": {
+          "id": 10522,
+          "nickname": "玩家HAO",
+          "updatedAt": "2024-05-20T09:50:57.000Z"
+        },
+        "score": 34860183,
+        "lastPlayedAt": "2024-05-20T09:50:57.000Z"
+      },
+      {
+        "sort": 16,
+        "player": {
+          "id": 2096,
+          "nickname": "野良良良猫",
+          "updatedAt": "2024-04-28T12:34:52.000Z"
+        },
+        "score": 34472962,
+        "lastPlayedAt": "2024-04-28T12:34:52.000Z"
+      },
+      {
+        "sort": 17,
+        "player": {
+          "id": 53249,
+          "nickname": "血雪白焰（说话没声音）",
+          "updatedAt": "2024-04-01T13:08:48.000Z"
+        },
+        "score": 34420770,
+        "lastPlayedAt": "2024-04-01T13:08:48.000Z"
+      },
+      {
+        "sort": 18,
+        "player": {
+          "id": 67931,
+          "nickname": "阿兔兔乐呀w",
+          "updatedAt": "2024-05-20T12:49:07.000Z"
+        },
+        "score": 34184117,
+        "lastPlayedAt": "2024-05-20T12:49:07.000Z"
+      },
+      {
+        "sort": 19,
+        "player": {
+          "id": 35391,
+          "nickname": "Amiyaaaaa",
+          "updatedAt": "2024-05-17T13:40:08.000Z"
+        },
+        "score": 34044549,
+        "lastPlayedAt": "2024-05-17T13:40:08.000Z"
+      },
+      {
+        "sort": 20,
+        "player": {
+          "id": 52476,
+          "nickname": "玖岚一缕",
+          "updatedAt": "2023-11-19T15:04:53.000Z"
+        },
+        "score": 34010634,
+        "lastPlayedAt": "2023-11-19T15:04:53.000Z"
+      },
+      {
+        "sort": 21,
+        "player": {
+          "id": 8246,
+          "nickname": "可可哟",
+          "updatedAt": "2024-05-17T13:14:58.000Z"
+        },
+        "score": 33869450,
+        "lastPlayedAt": "2024-05-17T13:14:58.000Z"
+      },
+      {
+        "sort": 22,
+        "player": {
+          "id": 2869,
+          "nickname": "PICO怨种连夜润回META",
+          "updatedAt": "2024-05-14T11:37:46.000Z"
+        },
+        "score": 33828042,
+        "lastPlayedAt": "2024-05-14T11:37:46.000Z"
+      },
+      {
+        "sort": 23,
+        "player": {
+          "id": 10615,
+          "nickname": "我的幸运",
+          "updatedAt": "2024-04-17T15:52:33.000Z"
+        },
+        "score": 33752830,
+        "lastPlayedAt": "2024-04-17T15:52:33.000Z"
+      },
+      {
+        "sort": 24,
+        "player": {
+          "id": 52582,
+          "nickname": "木汐",
+          "updatedAt": "2024-04-19T12:21:33.000Z"
+        },
+        "score": 33749129,
+        "lastPlayedAt": "2024-04-19T12:21:33.000Z"
+      },
+      {
+        "sort": 25,
+        "player": {
+          "id": 66719,
+          "nickname": "饭粒灬",
+          "updatedAt": "2024-05-16T13:10:56.000Z"
+        },
+        "score": 33745695,
+        "lastPlayedAt": "2024-05-16T13:10:56.000Z"
+      },
+      {
+        "sort": 26,
+        "player": {
+          "id": 12806,
+          "nickname": "v老白喵v",
+          "updatedAt": "2023-11-09T15:17:53.000Z"
+        },
+        "score": 33596165,
+        "lastPlayedAt": "2023-11-09T15:17:53.000Z"
+      },
+      {
+        "sort": 27,
+        "player": {
+          "id": 43677,
+          "nickname": "月影之海",
+          "updatedAt": "2024-05-11T14:48:23.000Z"
+        },
+        "score": 33539828,
+        "lastPlayedAt": "2024-05-11T14:48:23.000Z"
+      },
+      {
+        "sort": 28,
+        "player": {
+          "id": 55435,
+          "nickname": "坛鈢芽芽乐",
+          "updatedAt": "2024-05-19T06:28:16.000Z"
+        },
+        "score": 33209758,
+        "lastPlayedAt": "2024-05-19T06:28:16.000Z"
+      },
+      {
+        "sort": 29,
+        "player": {
+          "id": 15067,
+          "nickname": "桃课ing",
+          "updatedAt": "2024-03-07T11:57:32.000Z"
+        },
+        "score": 33208867,
+        "lastPlayedAt": "2024-03-07T11:57:32.000Z"
+      },
+      {
+        "sort": 30,
+        "player": {
+          "id": 20570,
+          "nickname": "Hobby33",
+          "updatedAt": "2024-05-15T16:22:55.000Z"
+        },
+        "score": 33153624,
+        "lastPlayedAt": "2024-05-15T16:22:55.000Z"
+      },
+      {
+        "sort": 31,
+        "player": {
+          "id": 37122,
+          "nickname": "微灵梓沐的老头乐",
+          "updatedAt": "2024-05-19T12:31:10.000Z"
+        },
+        "score": 32958793,
+        "lastPlayedAt": "2024-05-19T12:31:10.000Z"
+      },
+      {
+        "sort": 32,
+        "player": {
+          "id": 1123,
+          "nickname": "白金之猩",
+          "updatedAt": "2023-10-21T10:58:21.000Z"
+        },
+        "score": 32865878,
+        "lastPlayedAt": "2023-10-21T10:58:21.000Z"
+      },
+      {
+        "sort": 33,
+        "player": {
+          "id": 55390,
+          "nickname": "拉环",
+          "updatedAt": "2024-04-19T14:18:10.000Z"
+        },
+        "score": 32857870,
+        "lastPlayedAt": "2024-04-19T14:18:10.000Z"
+      },
+      {
+        "sort": 34,
+        "player": {
+          "id": 65296,
+          "nickname": "云中闲",
+          "updatedAt": "2024-05-09T02:48:26.000Z"
+        },
+        "score": 32642685,
+        "lastPlayedAt": "2024-05-09T02:48:26.000Z"
+      },
+      {
+        "sort": 35,
+        "player": {
+          "id": 63681,
+          "nickname": "妖精爱莉",
+          "updatedAt": "2024-05-16T14:21:28.000Z"
+        },
+        "score": 32459738,
+        "lastPlayedAt": "2024-05-16T14:21:28.000Z"
+      },
+      {
+        "sort": 36,
+        "player": {
+          "id": 64676,
+          "nickname": "Gatti",
+          "updatedAt": "2024-03-03T05:24:39.000Z"
+        },
+        "score": 32456670,
+        "lastPlayedAt": "2024-03-03T05:24:39.000Z"
+      },
+      {
+        "sort": 37,
+        "player": {
+          "id": 1794,
+          "nickname": "Kang",
+          "updatedAt": "2024-05-11T12:23:19.000Z"
+        },
+        "score": 32293440,
+        "lastPlayedAt": "2024-05-11T12:23:19.000Z"
+      },
+      {
+        "sort": 38,
+        "player": {
+          "id": 69184,
+          "nickname": "小黑子露出猪脚了",
+          "updatedAt": "2024-05-17T10:00:00.000Z"
+        },
+        "score": 32197181,
+        "lastPlayedAt": "2024-05-17T10:00:00.000Z"
+      },
+      {
+        "sort": 39,
+        "player": {
+          "id": 53644,
+          "nickname": "逍遥青龙",
+          "updatedAt": "2024-05-19T04:15:15.000Z"
+        },
+        "score": 32192542,
+        "lastPlayedAt": "2024-05-19T04:15:15.000Z"
+      },
+      {
+        "sort": 40,
+        "player": {
+          "id": 54476,
+          "nickname": "Kirito ",
+          "updatedAt": "2023-11-05T06:21:01.000Z"
+        },
+        "score": 32182204,
+        "lastPlayedAt": "2023-11-05T06:21:01.000Z"
+      },
+      {
+        "sort": 41,
+        "player": {
+          "id": 9902,
+          "nickname": "死人",
+          "updatedAt": "2024-05-03T12:13:58.000Z"
+        },
+        "score": 32165405,
+        "lastPlayedAt": "2024-05-03T12:13:58.000Z"
+      },
+      {
+        "sort": 42,
+        "player": {
+          "id": 1255,
+          "nickname": "容我再想一下",
+          "updatedAt": "2024-05-07T11:31:17.000Z"
+        },
+        "score": 32154560,
+        "lastPlayedAt": "2024-05-07T11:31:17.000Z"
+      },
+      {
+        "sort": 43,
+        "player": {
+          "id": 58722,
+          "nickname": "MJ明夜",
+          "updatedAt": "2024-05-21T04:43:53.000Z"
+        },
+        "score": 32127754,
+        "lastPlayedAt": "2024-05-21T04:43:53.000Z"
+      },
+      {
+        "sort": 44,
+        "player": {
+          "id": 54748,
+          "nickname": "莫兮",
+          "updatedAt": "2024-05-17T14:49:42.000Z"
+        },
+        "score": 32094639,
+        "lastPlayedAt": "2024-05-17T14:49:42.000Z"
+      },
+      {
+        "sort": 45,
+        "player": {
+          "id": 15530,
+          "nickname": "当猪脑过载时我会把剑交给牛子",
+          "updatedAt": "2024-03-28T11:36:20.000Z"
+        },
+        "score": 31937872,
+        "lastPlayedAt": "2024-03-28T11:36:20.000Z"
+      },
+      {
+        "sort": 46,
+        "player": {
+          "id": 55124,
+          "nickname": "feiiiii",
+          "updatedAt": "2024-04-19T13:35:53.000Z"
+        },
+        "score": 31888698,
+        "lastPlayedAt": "2024-04-19T13:35:53.000Z"
+      },
+      {
+        "sort": 47,
+        "player": {
+          "id": 60534,
+          "nickname": "不到俩位数不改名",
+          "updatedAt": "2024-05-20T06:36:02.000Z"
+        },
+        "score": 31845245,
+        "lastPlayedAt": "2024-05-20T06:36:02.000Z"
+      },
+      {
+        "sort": 48,
+        "player": {
+          "id": 19732,
+          "nickname": "皮口你哦三",
+          "updatedAt": "2024-05-20T14:26:48.000Z"
+        },
+        "score": 31739182,
+        "lastPlayedAt": "2024-05-20T14:26:48.000Z"
+      },
+      {
+        "sort": 49,
+        "player": {
+          "id": 3299,
+          "nickname": "冬雪与夏蝉",
+          "updatedAt": "2024-05-20T14:18:11.000Z"
+        },
+        "score": 31717764,
+        "lastPlayedAt": "2024-05-20T14:18:11.000Z"
+      },
+      {
+        "sort": 50,
+        "player": {
+          "id": 54844,
+          "nickname": "喵柒。",
+          "updatedAt": "2024-05-04T05:35:15.000Z"
+        },
+        "score": 31677017,
+        "lastPlayedAt": "2024-05-04T05:35:15.000Z"
+      },
+      {
+        "sort": 51,
+        "player": {
+          "id": 2375,
+          "nickname": "杰哥快让我康康",
+          "updatedAt": "2023-08-06T11:01:31.000Z"
+        },
+        "score": 31658228,
+        "lastPlayedAt": "2023-08-06T11:01:31.000Z"
+      },
+      {
+        "sort": 52,
+        "player": {
+          "id": 63115,
+          "nickname": "KevinClain",
+          "updatedAt": "2024-05-18T14:50:12.000Z"
+        },
+        "score": 31538012,
+        "lastPlayedAt": "2024-05-18T14:50:12.000Z"
+      },
+      {
+        "sort": 53,
+        "player": {
+          "id": 25549,
+          "nickname": "无他",
+          "updatedAt": "2024-04-24T13:49:30.000Z"
+        },
+        "score": 31509149,
+        "lastPlayedAt": "2024-04-24T13:49:30.000Z"
+      },
+      {
+        "sort": 54,
+        "player": {
+          "id": 66380,
+          "nickname": "VR卡森一号",
+          "updatedAt": "2024-05-19T11:13:56.000Z"
+        },
+        "score": 31280040,
+        "lastPlayedAt": "2024-05-19T11:13:56.000Z"
+      },
+      {
+        "sort": 55,
+        "player": {
+          "id": 42772,
+          "nickname": "愤怒的娜娜姐",
+          "updatedAt": "2024-05-13T12:49:31.000Z"
+        },
+        "score": 31210787,
+        "lastPlayedAt": "2024-05-13T12:49:31.000Z"
+      },
+      {
+        "sort": 56,
+        "player": {
+          "id": 11012,
+          "nickname": "蜜桃绵绵冰",
+          "updatedAt": "2024-05-11T06:01:55.000Z"
+        },
+        "score": 31205307,
+        "lastPlayedAt": "2024-05-11T06:01:55.000Z"
+      },
+      {
+        "sort": 57,
+        "player": {
+          "id": 36140,
+          "nickname": "MXue",
+          "updatedAt": "2024-05-20T12:26:21.000Z"
+        },
+        "score": 31127172,
+        "lastPlayedAt": "2024-05-20T12:26:21.000Z"
+      },
+      {
+        "sort": 58,
+        "player": {
+          "id": 12661,
+          "nickname": "rice",
+          "updatedAt": "2024-05-16T07:51:04.000Z"
+        },
+        "score": 31095119,
+        "lastPlayedAt": "2024-05-16T07:51:04.000Z"
+      },
+      {
+        "sort": 59,
+        "player": {
+          "id": 34361,
+          "nickname": "Luna睡觉乐",
+          "updatedAt": "2024-05-20T13:19:38.000Z"
+        },
+        "score": 30785071,
+        "lastPlayedAt": "2024-05-20T13:19:38.000Z"
+      },
+      {
+        "sort": 60,
+        "player": {
+          "id": 67939,
+          "nickname": "圆图大耳朵",
+          "updatedAt": "2023-08-29T13:57:02.000Z"
+        },
+        "score": 30768253,
+        "lastPlayedAt": "2023-08-29T13:57:02.000Z"
+      },
+      {
+        "sort": 61,
+        "player": {
+          "id": 40216,
+          "nickname": "NiiK-摸鱼乐",
+          "updatedAt": "2024-05-19T13:36:59.000Z"
+        },
+        "score": 30665313,
+        "lastPlayedAt": "2024-05-19T13:36:59.000Z"
+      },
+      {
+        "sort": 62,
+        "player": {
+          "id": 53234,
+          "nickname": "大大48",
+          "updatedAt": "2024-04-10T01:15:56.000Z"
+        },
+        "score": 30573166,
+        "lastPlayedAt": "2024-04-10T01:15:56.000Z"
+      },
+      {
+        "sort": 63,
+        "player": {
+          "id": 24175,
+          "nickname": "小新yummy",
+          "updatedAt": "2024-05-12T07:08:25.000Z"
+        },
+        "score": 30454527,
+        "lastPlayedAt": "2024-05-12T07:08:25.000Z"
+      },
+      {
+        "sort": 64,
+        "player": {
+          "id": 48325,
+          "nickname": "小菜鸡 ",
+          "updatedAt": "2024-05-20T14:50:11.000Z"
+        },
+        "score": 30453934,
+        "lastPlayedAt": "2024-05-20T14:50:11.000Z"
+      },
+      {
+        "sort": 65,
+        "player": {
+          "id": 41186,
+          "nickname": "栗儿小飞侠",
+          "updatedAt": "2024-05-20T11:29:10.000Z"
+        },
+        "score": 30413306,
+        "lastPlayedAt": "2024-05-20T11:29:10.000Z"
+      },
+      {
+        "sort": 66,
+        "player": {
+          "id": 62357,
+          "nickname": "用户9361814579118",
+          "updatedAt": "2023-07-27T15:08:23.000Z"
+        },
+        "score": 30272804,
+        "lastPlayedAt": "2023-07-27T15:08:23.000Z"
+      },
+      {
+        "sort": 67,
+        "player": {
+          "id": 7643,
+          "nickname": "沉睡之幻",
+          "updatedAt": "2024-05-09T12:55:47.000Z"
+        },
+        "score": 30239152,
+        "lastPlayedAt": "2024-05-09T12:55:47.000Z"
+      },
+      {
+        "sort": 68,
+        "player": {
+          "id": 32249,
+          "nickname": "RuA",
+          "updatedAt": "2024-03-06T12:53:29.000Z"
+        },
+        "score": 30235743,
+        "lastPlayedAt": "2024-03-06T12:53:29.000Z"
+      },
+      {
+        "sort": 69,
+        "player": {
+          "id": 4792,
+          "nickname": "皮蛋超人",
+          "updatedAt": "2024-05-20T15:45:46.000Z"
+        },
+        "score": 30144552,
+        "lastPlayedAt": "2024-05-20T15:45:46.000Z"
+      },
+      {
+        "sort": 70,
+        "player": {
+          "id": 276,
+          "nickname": "超人不会飞1314",
+          "updatedAt": "2024-05-20T11:57:35.000Z"
+        },
+        "score": 30143777,
+        "lastPlayedAt": "2024-05-20T11:57:35.000Z"
+      },
+      {
+        "sort": 71,
+        "player": {
+          "id": 50823,
+          "nickname": "ProtoZero",
+          "updatedAt": "2024-05-20T08:22:40.000Z"
+        },
+        "score": 30108929,
+        "lastPlayedAt": "2024-05-20T08:22:40.000Z"
+      },
+      {
+        "sort": 72,
+        "player": {
+          "id": 368,
+          "nickname": "晓雷哥哥",
+          "updatedAt": "2024-01-19T13:14:29.000Z"
+        },
+        "score": 30088092,
+        "lastPlayedAt": "2024-01-19T13:14:29.000Z"
+      },
+      {
+        "sort": 73,
+        "player": {
+          "id": 51622,
+          "nickname": "Yuiii_Hao-咸鱼模式",
+          "updatedAt": "2024-05-18T13:59:23.000Z"
+        },
+        "score": 30083970,
+        "lastPlayedAt": "2024-05-18T13:59:23.000Z"
+      },
+      {
+        "sort": 74,
+        "player": {
+          "id": 15688,
+          "nickname": "soonsoon",
+          "updatedAt": "2024-05-20T13:32:25.000Z"
+        },
+        "score": 30051091,
+        "lastPlayedAt": "2024-05-20T13:32:25.000Z"
+      },
+      {
+        "sort": 75,
+        "player": {
+          "id": 25045,
+          "nickname": "十连双黄",
+          "updatedAt": "2024-01-12T12:49:34.000Z"
+        },
+        "score": 30042741,
+        "lastPlayedAt": "2024-01-12T12:49:34.000Z"
+      },
+      {
+        "sort": 76,
+        "player": {
+          "id": 75758,
+          "nickname": "光剑满天飞杨过版",
+          "updatedAt": "2024-05-18T13:30:52.000Z"
+        },
+        "score": 30026242,
+        "lastPlayedAt": "2024-05-18T13:30:52.000Z"
+      },
+      {
+        "sort": 77,
+        "player": {
+          "id": 47876,
+          "nickname": "泡芙小奶糕",
+          "updatedAt": "2024-04-07T13:03:25.000Z"
+        },
+        "score": 30024995,
+        "lastPlayedAt": "2024-04-07T13:03:25.000Z"
+      },
+      {
+        "sort": 78,
+        "player": {
+          "id": 52605,
+          "nickname": "乐团gai溜子",
+          "updatedAt": "2024-05-18T12:15:32.000Z"
+        },
+        "score": 29892915,
+        "lastPlayedAt": "2024-05-18T12:15:32.000Z"
+      },
+      {
+        "sort": 79,
+        "player": {
+          "id": 66034,
+          "nickname": "情绪稳定的狗子",
+          "updatedAt": "2024-05-13T23:27:40.000Z"
+        },
+        "score": 29854864,
+        "lastPlayedAt": "2024-05-13T23:27:40.000Z"
+      },
+      {
+        "sort": 80,
+        "player": {
+          "id": 12900,
+          "nickname": "那些年月",
+          "updatedAt": "2024-05-14T13:53:55.000Z"
+        },
+        "score": 29800566,
+        "lastPlayedAt": "2024-05-14T13:53:55.000Z"
+      },
+      {
+        "sort": 81,
+        "player": {
+          "id": 34683,
+          "nickname": "像牛马树",
+          "updatedAt": "2024-05-20T14:20:52.000Z"
+        },
+        "score": 29631388,
+        "lastPlayedAt": "2024-05-20T14:20:52.000Z"
+      },
+      {
+        "sort": 82,
+        "player": {
+          "id": 54965,
+          "nickname": "初夏唯尘",
+          "updatedAt": "2024-05-03T13:04:57.000Z"
+        },
+        "score": 29603262,
+        "lastPlayedAt": "2024-05-03T13:04:57.000Z"
+      },
+      {
+        "sort": 83,
+        "player": {
+          "id": 6451,
+          "nickname": "一圈两圈",
+          "updatedAt": "2023-12-25T13:06:56.000Z"
+        },
+        "score": 29476810,
+        "lastPlayedAt": "2023-12-25T13:06:56.000Z"
+      },
+      {
+        "sort": 84,
+        "player": {
+          "id": 42272,
+          "nickname": "涨停君",
+          "updatedAt": "2024-02-05T12:51:55.000Z"
+        },
+        "score": 29430576,
+        "lastPlayedAt": "2024-02-05T12:51:55.000Z"
+      },
+      {
+        "sort": 85,
+        "player": {
+          "id": 12327,
+          "nickname": "iiiiii",
+          "updatedAt": "2024-05-12T13:14:47.000Z"
+        },
+        "score": 29421531,
+        "lastPlayedAt": "2024-05-12T13:14:47.000Z"
+      },
+      {
+        "sort": 86,
+        "player": {
+          "id": 18953,
+          "nickname": "Viona",
+          "updatedAt": "2024-05-17T14:28:43.000Z"
+        },
+        "score": 29419768,
+        "lastPlayedAt": "2024-05-17T14:28:43.000Z"
+      },
+      {
+        "sort": 87,
+        "player": {
+          "id": 78303,
+          "nickname": "时溯",
+          "updatedAt": "2024-05-19T18:24:24.000Z"
+        },
+        "score": 29285502,
+        "lastPlayedAt": "2024-05-19T18:24:24.000Z"
+      },
+      {
+        "sort": 88,
+        "player": {
+          "id": 7989,
+          "nickname": "奶猫嗷不动乐",
+          "updatedAt": "2024-05-19T14:03:59.000Z"
+        },
+        "score": 29257491,
+        "lastPlayedAt": "2024-05-19T14:03:59.000Z"
+      },
+      {
+        "sort": 89,
+        "player": {
+          "id": 65553,
+          "nickname": "boringl",
+          "updatedAt": "2024-05-16T13:56:26.000Z"
+        },
+        "score": 29027710,
+        "lastPlayedAt": "2024-05-16T13:56:26.000Z"
+      },
+      {
+        "sort": 90,
+        "player": {
+          "id": 39015,
+          "nickname": "休闲锻炼",
+          "updatedAt": "2024-05-20T12:56:55.000Z"
+        },
+        "score": 28981407,
+        "lastPlayedAt": "2024-05-20T12:56:55.000Z"
+      },
+      {
+        "sort": 91,
+        "player": {
+          "id": 70179,
+          "nickname": "饲主",
+          "updatedAt": "2024-03-24T00:33:10.000Z"
+        },
+        "score": 28968144,
+        "lastPlayedAt": "2024-03-24T00:33:10.000Z"
+      },
+      {
+        "sort": 92,
+        "player": {
+          "id": 57663,
+          "nickname": "bitshine1",
+          "updatedAt": "2024-04-09T09:04:19.000Z"
+        },
+        "score": 28785776,
+        "lastPlayedAt": "2024-04-09T09:04:19.000Z"
+      },
+      {
+        "sort": 93,
+        "player": {
+          "id": 7853,
+          "nickname": "小_羊羊",
+          "updatedAt": "2024-05-19T09:09:17.000Z"
+        },
+        "score": 28668188,
+        "lastPlayedAt": "2024-05-19T09:09:17.000Z"
+      },
+      {
+        "sort": 94,
+        "player": {
+          "id": 13832,
+          "nickname": "jastee",
+          "updatedAt": "2024-05-20T11:35:17.000Z"
+        },
+        "score": 28653598,
+        "lastPlayedAt": "2024-05-20T11:35:17.000Z"
+      },
+      {
+        "sort": 95,
+        "player": {
+          "id": 57350,
+          "nickname": "历诚",
+          "updatedAt": "2024-05-06T11:55:45.000Z"
+        },
+        "score": 28640134,
+        "lastPlayedAt": "2024-05-06T11:55:45.000Z"
+      },
+      {
+        "sort": 96,
+        "player": {
+          "id": 48562,
+          "nickname": "渐行渐远",
+          "updatedAt": "2024-04-12T14:00:46.000Z"
+        },
+        "score": 28582660,
+        "lastPlayedAt": "2024-04-12T14:00:46.000Z"
+      },
+      {
+        "sort": 97,
+        "player": {
+          "id": 1321,
+          "nickname": "冰激凌西瓜",
+          "updatedAt": "2024-05-20T15:20:17.000Z"
+        },
+        "score": 28417863,
+        "lastPlayedAt": "2024-05-20T15:20:17.000Z"
+      },
+      {
+        "sort": 98,
+        "player": {
+          "id": 16649,
+          "nickname": "清欲",
+          "updatedAt": "2024-05-13T14:24:15.000Z"
+        },
+        "score": 28251396,
+        "lastPlayedAt": "2024-05-13T14:24:15.000Z"
+      },
+      {
+        "sort": 99,
+        "player": {
+          "id": 42324,
+          "nickname": "乐妮",
+          "updatedAt": "2024-05-20T11:55:08.000Z"
+        },
+        "score": 28207473,
+        "lastPlayedAt": "2024-05-20T11:55:08.000Z"
+      },
+      {
+        "sort": 100,
+        "player": {
+          "id": 17665,
+          "nickname": "伊巧",
+          "updatedAt": "2024-05-19T12:06:27.000Z"
+        },
+        "score": 28120463,
+        "lastPlayedAt": "2024-05-19T12:06:27.000Z"
+      }
+    ],
+    "hitCountRankList": [
+      {
+        "sort": 1,
+        "player": {
+          "id": 39015,
+          "nickname": "休闲锻炼",
+          "updatedAt": "2024-05-20T12:56:55.000Z"
+        },
+        "score": 1108037,
+        "lastPlayedAt": "2024-05-20T12:56:55.000Z"
+      },
+      {
+        "sort": 2,
+        "player": {
+          "id": 65296,
+          "nickname": "云中闲",
+          "updatedAt": "2024-05-09T02:48:26.000Z"
+        },
+        "score": 685451,
+        "lastPlayedAt": "2024-05-09T02:48:26.000Z"
+      },
+      {
+        "sort": 3,
+        "player": {
+          "id": 57860,
+          "nickname": "极音",
+          "updatedAt": "2024-03-05T10:58:42.000Z"
+        },
+        "score": 612546,
+        "lastPlayedAt": "2024-03-05T10:58:42.000Z"
+      },
+      {
+        "sort": 4,
+        "player": {
+          "id": 67939,
+          "nickname": "圆图大耳朵",
+          "updatedAt": "2023-08-29T13:57:02.000Z"
+        },
+        "score": 590008,
+        "lastPlayedAt": "2023-08-29T13:57:02.000Z"
+      },
+      {
+        "sort": 5,
+        "player": {
+          "id": 46347,
+          "nickname": "囡音",
+          "updatedAt": "2024-05-18T13:44:34.000Z"
+        },
+        "score": 582112,
+        "lastPlayedAt": "2024-05-18T13:44:34.000Z"
+      },
+      {
+        "sort": 6,
+        "player": {
+          "id": 19732,
+          "nickname": "皮口你哦三",
+          "updatedAt": "2024-05-20T14:26:48.000Z"
+        },
+        "score": 501536,
+        "lastPlayedAt": "2024-05-20T14:26:48.000Z"
+      },
+      {
+        "sort": 7,
+        "player": {
+          "id": 64809,
+          "nickname": "暴躁的金渐层",
+          "updatedAt": "2024-05-20T12:04:05.000Z"
+        },
+        "score": 496892,
+        "lastPlayedAt": "2024-05-20T12:04:05.000Z"
+      },
+      {
+        "sort": 8,
+        "player": {
+          "id": 8246,
+          "nickname": "可可哟",
+          "updatedAt": "2024-05-17T13:14:58.000Z"
+        },
+        "score": 493643,
+        "lastPlayedAt": "2024-05-17T13:14:58.000Z"
+      },
+      {
+        "sort": 9,
+        "player": {
+          "id": 63681,
+          "nickname": "妖精爱莉",
+          "updatedAt": "2024-05-16T14:21:28.000Z"
+        },
+        "score": 488651,
+        "lastPlayedAt": "2024-05-16T14:21:28.000Z"
+      },
+      {
+        "sort": 10,
+        "player": {
+          "id": 891,
+          "nickname": "球球飞舞乐",
+          "updatedAt": "2024-05-20T13:39:28.000Z"
+        },
+        "score": 422420,
+        "lastPlayedAt": "2024-05-20T13:39:28.000Z"
+      },
+      {
+        "sort": 11,
+        "player": {
+          "id": 10522,
+          "nickname": "玩家HAO",
+          "updatedAt": "2024-05-20T09:50:57.000Z"
+        },
+        "score": 418669,
+        "lastPlayedAt": "2024-05-20T09:50:57.000Z"
+      },
+      {
+        "sort": 12,
+        "player": {
+          "id": 21300,
+          "nickname": "无晴雨润乐",
+          "updatedAt": "2024-05-20T12:36:39.000Z"
+        },
+        "score": 401415,
+        "lastPlayedAt": "2024-05-20T12:36:39.000Z"
+      },
+      {
+        "sort": 13,
+        "player": {
+          "id": 4792,
+          "nickname": "皮蛋超人",
+          "updatedAt": "2024-05-20T15:45:46.000Z"
+        },
+        "score": 386426,
+        "lastPlayedAt": "2024-05-20T15:45:46.000Z"
+      },
+      {
+        "sort": 14,
+        "player": {
+          "id": 30908,
+          "nickname": "憨米敦",
+          "updatedAt": "2024-05-03T14:32:13.000Z"
+        },
+        "score": 335744,
+        "lastPlayedAt": "2024-05-03T14:32:13.000Z"
+      },
+      {
+        "sort": 15,
+        "player": {
+          "id": 1255,
+          "nickname": "容我再想一下",
+          "updatedAt": "2024-05-07T11:31:17.000Z"
+        },
+        "score": 325881,
+        "lastPlayedAt": "2024-05-07T11:31:17.000Z"
+      },
+      {
+        "sort": 16,
+        "player": {
+          "id": 42772,
+          "nickname": "愤怒的娜娜姐",
+          "updatedAt": "2024-05-13T12:49:31.000Z"
+        },
+        "score": 306190,
+        "lastPlayedAt": "2024-05-13T12:49:31.000Z"
+      },
+      {
+        "sort": 17,
+        "player": {
+          "id": 173,
+          "nickname": "last新",
+          "updatedAt": "2024-05-20T14:33:01.000Z"
+        },
+        "score": 298866,
+        "lastPlayedAt": "2024-05-20T14:33:01.000Z"
+      },
+      {
+        "sort": 18,
+        "player": {
+          "id": 20570,
+          "nickname": "Hobby33",
+          "updatedAt": "2024-05-15T16:22:55.000Z"
+        },
+        "score": 267606,
+        "lastPlayedAt": "2024-05-15T16:22:55.000Z"
+      },
+      {
+        "sort": 19,
+        "player": {
+          "id": 7989,
+          "nickname": "奶猫嗷不动乐",
+          "updatedAt": "2024-05-19T14:03:59.000Z"
+        },
+        "score": 249090,
+        "lastPlayedAt": "2024-05-19T14:03:59.000Z"
+      },
+      {
+        "sort": 20,
+        "player": {
+          "id": 53455,
+          "nickname": "MOKO",
+          "updatedAt": "2024-05-20T14:50:02.000Z"
+        },
+        "score": 244123,
+        "lastPlayedAt": "2024-05-20T14:50:02.000Z"
+      },
+      {
+        "sort": 21,
+        "player": {
+          "id": 22508,
+          "nickname": "嘉仁",
+          "updatedAt": "2024-05-20T12:23:17.000Z"
+        },
+        "score": 242652,
+        "lastPlayedAt": "2024-05-20T12:23:17.000Z"
+      },
+      {
+        "sort": 22,
+        "player": {
+          "id": 1321,
+          "nickname": "冰激凌西瓜",
+          "updatedAt": "2024-05-20T15:20:17.000Z"
+        },
+        "score": 242310,
+        "lastPlayedAt": "2024-05-20T15:20:17.000Z"
+      },
+      {
+        "sort": 23,
+        "player": {
+          "id": 17665,
+          "nickname": "伊巧",
+          "updatedAt": "2024-05-19T12:06:27.000Z"
+        },
+        "score": 240977,
+        "lastPlayedAt": "2024-05-19T12:06:27.000Z"
+      },
+      {
+        "sort": 24,
+        "player": {
+          "id": 2375,
+          "nickname": "杰哥快让我康康",
+          "updatedAt": "2023-08-06T11:01:31.000Z"
+        },
+        "score": 240580,
+        "lastPlayedAt": "2023-08-06T11:01:31.000Z"
+      },
+      {
+        "sort": 25,
+        "player": {
+          "id": 47876,
+          "nickname": "泡芙小奶糕",
+          "updatedAt": "2024-04-07T13:03:25.000Z"
+        },
+        "score": 239726,
+        "lastPlayedAt": "2024-04-07T13:03:25.000Z"
+      },
+      {
+        "sort": 26,
+        "player": {
+          "id": 42272,
+          "nickname": "涨停君",
+          "updatedAt": "2024-02-05T12:51:55.000Z"
+        },
+        "score": 232929,
+        "lastPlayedAt": "2024-02-05T12:51:55.000Z"
+      },
+      {
+        "sort": 27,
+        "player": {
+          "id": 36140,
+          "nickname": "MXue",
+          "updatedAt": "2024-05-20T12:26:21.000Z"
+        },
+        "score": 226926,
+        "lastPlayedAt": "2024-05-20T12:26:21.000Z"
+      },
+      {
+        "sort": 28,
+        "player": {
+          "id": 42324,
+          "nickname": "乐妮",
+          "updatedAt": "2024-05-20T11:55:08.000Z"
+        },
+        "score": 226480,
+        "lastPlayedAt": "2024-05-20T11:55:08.000Z"
+      },
+      {
+        "sort": 29,
+        "player": {
+          "id": 74904,
+          "nickname": "pico又要充电了",
+          "updatedAt": "2024-05-20T11:50:53.000Z"
+        },
+        "score": 223788,
+        "lastPlayedAt": "2024-05-20T11:50:53.000Z"
+      },
+      {
+        "sort": 30,
+        "player": {
+          "id": 54748,
+          "nickname": "莫兮",
+          "updatedAt": "2024-05-17T14:49:42.000Z"
+        },
+        "score": 219365,
+        "lastPlayedAt": "2024-05-17T14:49:42.000Z"
+      },
+      {
+        "sort": 31,
+        "player": {
+          "id": 34361,
+          "nickname": "Luna睡觉乐",
+          "updatedAt": "2024-05-20T13:19:38.000Z"
+        },
+        "score": 217667,
+        "lastPlayedAt": "2024-05-20T13:19:38.000Z"
+      },
+      {
+        "sort": 32,
+        "player": {
+          "id": 66719,
+          "nickname": "饭粒灬",
+          "updatedAt": "2024-05-16T13:10:56.000Z"
+        },
+        "score": 210570,
+        "lastPlayedAt": "2024-05-16T13:10:56.000Z"
+      },
+      {
+        "sort": 33,
+        "player": {
+          "id": 49019,
+          "nickname": "咸鱼的快乐",
+          "updatedAt": "2024-05-16T13:44:05.000Z"
+        },
+        "score": 203012,
+        "lastPlayedAt": "2024-05-16T13:44:05.000Z"
+      },
+      {
+        "sort": 34,
+        "player": {
+          "id": 11012,
+          "nickname": "蜜桃绵绵冰",
+          "updatedAt": "2024-05-11T06:01:55.000Z"
+        },
+        "score": 200306,
+        "lastPlayedAt": "2024-05-11T06:01:55.000Z"
+      },
+      {
+        "sort": 35,
+        "player": {
+          "id": 55435,
+          "nickname": "坛鈢芽芽乐",
+          "updatedAt": "2024-05-19T06:28:16.000Z"
+        },
+        "score": 200235,
+        "lastPlayedAt": "2024-05-19T06:28:16.000Z"
+      },
+      {
+        "sort": 36,
+        "player": {
+          "id": 48562,
+          "nickname": "渐行渐远",
+          "updatedAt": "2024-04-12T14:00:46.000Z"
+        },
+        "score": 189989,
+        "lastPlayedAt": "2024-04-12T14:00:46.000Z"
+      },
+      {
+        "sort": 37,
+        "player": {
+          "id": 74345,
+          "nickname": "柚绿时光-兮兮师傅去哪了",
+          "updatedAt": "2024-05-19T11:20:36.000Z"
+        },
+        "score": 189709,
+        "lastPlayedAt": "2024-05-19T11:20:36.000Z"
+      },
+      {
+        "sort": 38,
+        "player": {
+          "id": 48325,
+          "nickname": "小菜鸡 ",
+          "updatedAt": "2024-05-20T14:50:11.000Z"
+        },
+        "score": 186442,
+        "lastPlayedAt": "2024-05-20T14:50:11.000Z"
+      },
+      {
+        "sort": 39,
+        "player": {
+          "id": 15688,
+          "nickname": "soonsoon",
+          "updatedAt": "2024-05-20T13:32:25.000Z"
+        },
+        "score": 182461,
+        "lastPlayedAt": "2024-05-20T13:32:25.000Z"
+      },
+      {
+        "sort": 40,
+        "player": {
+          "id": 41186,
+          "nickname": "栗儿小飞侠",
+          "updatedAt": "2024-05-20T11:29:10.000Z"
+        },
+        "score": 182002,
+        "lastPlayedAt": "2024-05-20T11:29:10.000Z"
+      },
+      {
+        "sort": 41,
+        "player": {
+          "id": 16611,
+          "nickname": "云飞云非非云飞",
+          "updatedAt": "2024-05-21T05:26:00.000Z"
+        },
+        "score": 180687,
+        "lastPlayedAt": "2024-05-21T05:26:00.000Z"
+      },
+      {
+        "sort": 42,
+        "player": {
+          "id": 71600,
+          "nickname": "千金散尽",
+          "updatedAt": "2023-11-27T09:07:24.000Z"
+        },
+        "score": 179045,
+        "lastPlayedAt": "2023-11-27T09:07:24.000Z"
+      },
+      {
+        "sort": 43,
+        "player": {
+          "id": 7643,
+          "nickname": "沉睡之幻",
+          "updatedAt": "2024-05-09T12:55:47.000Z"
+        },
+        "score": 174651,
+        "lastPlayedAt": "2024-05-09T12:55:47.000Z"
+      },
+      {
+        "sort": 44,
+        "player": {
+          "id": 60534,
+          "nickname": "不到俩位数不改名",
+          "updatedAt": "2024-05-20T06:36:02.000Z"
+        },
+        "score": 171343,
+        "lastPlayedAt": "2024-05-20T06:36:02.000Z"
+      },
+      {
+        "sort": 45,
+        "player": {
+          "id": 5360,
+          "nickname": "萝卜神降临",
+          "updatedAt": "2024-05-20T13:10:06.000Z"
+        },
+        "score": 171001,
+        "lastPlayedAt": "2024-05-20T13:10:06.000Z"
+      },
+      {
+        "sort": 46,
+        "player": {
+          "id": 23881,
+          "nickname": "PicoFans_5L6Q6U3",
+          "updatedAt": "2024-05-09T07:07:46.000Z"
+        },
+        "score": 170212,
+        "lastPlayedAt": "2024-05-09T07:07:46.000Z"
+      },
+      {
+        "sort": 47,
+        "player": {
+          "id": 62902,
+          "nickname": "超级不良少年",
+          "updatedAt": "2024-02-14T15:45:36.000Z"
+        },
+        "score": 167670,
+        "lastPlayedAt": "2024-02-14T15:45:36.000Z"
+      },
+      {
+        "sort": 48,
+        "player": {
+          "id": 44032,
+          "nickname": "Ryu-拂晓",
+          "updatedAt": "2024-04-26T14:54:36.000Z"
+        },
+        "score": 165752,
+        "lastPlayedAt": "2024-04-26T14:54:36.000Z"
+      },
+      {
+        "sort": 49,
+        "player": {
+          "id": 57305,
+          "nickname": "霜降于小满",
+          "updatedAt": "2023-12-22T10:58:19.000Z"
+        },
+        "score": 164070,
+        "lastPlayedAt": "2023-12-22T10:58:19.000Z"
+      },
+      {
+        "sort": 50,
+        "player": {
+          "id": 78303,
+          "nickname": "时溯",
+          "updatedAt": "2024-05-19T18:24:24.000Z"
+        },
+        "score": 164068,
+        "lastPlayedAt": "2024-05-19T18:24:24.000Z"
+      },
+      {
+        "sort": 51,
+        "player": {
+          "id": 16649,
+          "nickname": "清欲",
+          "updatedAt": "2024-05-13T14:24:15.000Z"
+        },
+        "score": 163500,
+        "lastPlayedAt": "2024-05-13T14:24:15.000Z"
+      },
+      {
+        "sort": 52,
+        "player": {
+          "id": 12661,
+          "nickname": "rice",
+          "updatedAt": "2024-05-16T07:51:04.000Z"
+        },
+        "score": 163198,
+        "lastPlayedAt": "2024-05-16T07:51:04.000Z"
+      },
+      {
+        "sort": 53,
+        "player": {
+          "id": 44400,
+          "nickname": "心尘",
+          "updatedAt": "2024-01-29T00:44:50.000Z"
+        },
+        "score": 163042,
+        "lastPlayedAt": "2024-01-29T00:44:50.000Z"
+      },
+      {
+        "sort": 54,
+        "player": {
+          "id": 67931,
+          "nickname": "阿兔兔乐呀w",
+          "updatedAt": "2024-05-20T12:49:07.000Z"
+        },
+        "score": 160944,
+        "lastPlayedAt": "2024-05-20T12:49:07.000Z"
+      },
+      {
+        "sort": 55,
+        "player": {
+          "id": 54844,
+          "nickname": "喵柒。",
+          "updatedAt": "2024-05-04T05:35:15.000Z"
+        },
+        "score": 157413,
+        "lastPlayedAt": "2024-05-04T05:35:15.000Z"
+      },
+      {
+        "sort": 56,
+        "player": {
+          "id": 58722,
+          "nickname": "MJ明夜",
+          "updatedAt": "2024-05-21T04:43:53.000Z"
+        },
+        "score": 156794,
+        "lastPlayedAt": "2024-05-21T04:43:53.000Z"
+      },
+      {
+        "sort": 57,
+        "player": {
+          "id": 44940,
+          "nickname": "卍狼魂卐",
+          "updatedAt": "2024-05-21T02:31:12.000Z"
+        },
+        "score": 153796,
+        "lastPlayedAt": "2024-05-21T02:31:12.000Z"
+      },
+      {
+        "sort": 58,
+        "player": {
+          "id": 55124,
+          "nickname": "feiiiii",
+          "updatedAt": "2024-04-19T13:35:53.000Z"
+        },
+        "score": 153048,
+        "lastPlayedAt": "2024-04-19T13:35:53.000Z"
+      },
+      {
+        "sort": 59,
+        "player": {
+          "id": 49475,
+          "nickname": "无言-",
+          "updatedAt": "2024-02-25T17:58:34.000Z"
+        },
+        "score": 152330,
+        "lastPlayedAt": "2024-02-25T17:58:34.000Z"
+      },
+      {
+        "sort": 60,
+        "player": {
+          "id": 12806,
+          "nickname": "v老白喵v",
+          "updatedAt": "2023-11-09T15:17:53.000Z"
+        },
+        "score": 149092,
+        "lastPlayedAt": "2023-11-09T15:17:53.000Z"
+      },
+      {
+        "sort": 61,
+        "player": {
+          "id": 54476,
+          "nickname": "Kirito ",
+          "updatedAt": "2023-11-05T06:21:01.000Z"
+        },
+        "score": 148126,
+        "lastPlayedAt": "2023-11-05T06:21:01.000Z"
+      },
+      {
+        "sort": 62,
+        "player": {
+          "id": 41271,
+          "nickname": "bigcoolfish",
+          "updatedAt": "2024-05-19T14:49:01.000Z"
+        },
+        "score": 147657,
+        "lastPlayedAt": "2024-05-19T14:49:01.000Z"
+      },
+      {
+        "sort": 63,
+        "player": {
+          "id": 55839,
+          "nickname": "ycm212212212",
+          "updatedAt": "2024-05-20T08:16:29.000Z"
+        },
+        "score": 146958,
+        "lastPlayedAt": "2024-05-20T08:16:29.000Z"
+      },
+      {
+        "sort": 64,
+        "player": {
+          "id": 43677,
+          "nickname": "月影之海",
+          "updatedAt": "2024-05-11T14:48:23.000Z"
+        },
+        "score": 146853,
+        "lastPlayedAt": "2024-05-11T14:48:23.000Z"
+      },
+      {
+        "sort": 65,
+        "player": {
+          "id": 3299,
+          "nickname": "冬雪与夏蝉",
+          "updatedAt": "2024-05-20T14:18:11.000Z"
+        },
+        "score": 142397,
+        "lastPlayedAt": "2024-05-20T14:18:11.000Z"
+      },
+      {
+        "sort": 66,
+        "player": {
+          "id": 73946,
+          "nickname": "帅哥东一世",
+          "updatedAt": "2023-07-23T15:54:43.000Z"
+        },
+        "score": 141736,
+        "lastPlayedAt": "2023-07-23T15:54:43.000Z"
+      },
+      {
+        "sort": 67,
+        "player": {
+          "id": 32249,
+          "nickname": "RuA",
+          "updatedAt": "2024-03-06T12:53:29.000Z"
+        },
+        "score": 140907,
+        "lastPlayedAt": "2024-03-06T12:53:29.000Z"
+      },
+      {
+        "sort": 68,
+        "player": {
+          "id": 12327,
+          "nickname": "iiiiii",
+          "updatedAt": "2024-05-12T13:14:47.000Z"
+        },
+        "score": 140866,
+        "lastPlayedAt": "2024-05-12T13:14:47.000Z"
+      },
+      {
+        "sort": 69,
+        "player": {
+          "id": 22613,
+          "nickname": "diuzi",
+          "updatedAt": "2024-04-07T14:45:41.000Z"
+        },
+        "score": 140308,
+        "lastPlayedAt": "2024-04-07T14:45:41.000Z"
+      },
+      {
+        "sort": 70,
+        "player": {
+          "id": 1532,
+          "nickname": "江鱼",
+          "updatedAt": "2024-05-13T11:37:38.000Z"
+        },
+        "score": 139991,
+        "lastPlayedAt": "2024-05-13T11:37:38.000Z"
+      },
+      {
+        "sort": 71,
+        "player": {
+          "id": 2869,
+          "nickname": "PICO怨种连夜润回META",
+          "updatedAt": "2024-05-14T11:37:46.000Z"
+        },
+        "score": 139869,
+        "lastPlayedAt": "2024-05-14T11:37:46.000Z"
+      },
+      {
+        "sort": 72,
+        "player": {
+          "id": 66774,
+          "nickname": "TIG御风山雨欲来",
+          "updatedAt": "2023-11-02T07:16:33.000Z"
+        },
+        "score": 139581,
+        "lastPlayedAt": "2023-11-02T07:16:33.000Z"
+      },
+      {
+        "sort": 73,
+        "player": {
+          "id": 50823,
+          "nickname": "ProtoZero",
+          "updatedAt": "2024-05-20T08:22:40.000Z"
+        },
+        "score": 138949,
+        "lastPlayedAt": "2024-05-20T08:22:40.000Z"
+      },
+      {
+        "sort": 74,
+        "player": {
+          "id": 70888,
+          "nickname": "Noisy",
+          "updatedAt": "2024-05-20T10:06:57.000Z"
+        },
+        "score": 138761,
+        "lastPlayedAt": "2024-05-20T10:06:57.000Z"
+      },
+      {
+        "sort": 75,
+        "player": {
+          "id": 64676,
+          "nickname": "Gatti",
+          "updatedAt": "2024-03-03T05:24:39.000Z"
+        },
+        "score": 137643,
+        "lastPlayedAt": "2024-03-03T05:24:39.000Z"
+      },
+      {
+        "sort": 76,
+        "player": {
+          "id": 48828,
+          "nickname": "一夜到天明",
+          "updatedAt": "2024-02-06T11:48:30.000Z"
+        },
+        "score": 137513,
+        "lastPlayedAt": "2024-02-06T11:48:30.000Z"
+      },
+      {
+        "sort": 77,
+        "player": {
+          "id": 71581,
+          "nickname": "PicoFans_FJ",
+          "updatedAt": "2024-05-02T12:47:02.000Z"
+        },
+        "score": 137299,
+        "lastPlayedAt": "2024-05-02T12:47:02.000Z"
+      },
+      {
+        "sort": 78,
+        "player": {
+          "id": 14693,
+          "nickname": "6687",
+          "updatedAt": "2024-02-07T02:52:33.000Z"
+        },
+        "score": 133926,
+        "lastPlayedAt": "2024-02-07T02:52:33.000Z"
+      },
+      {
+        "sort": 79,
+        "player": {
+          "id": 7853,
+          "nickname": "小_羊羊",
+          "updatedAt": "2024-05-19T09:09:17.000Z"
+        },
+        "score": 133703,
+        "lastPlayedAt": "2024-05-19T09:09:17.000Z"
+      },
+      {
+        "sort": 80,
+        "player": {
+          "id": 2333,
+          "nickname": "馨怡姐姐",
+          "updatedAt": "2024-05-18T23:29:59.000Z"
+        },
+        "score": 133165,
+        "lastPlayedAt": "2024-05-18T23:29:59.000Z"
+      },
+      {
+        "sort": 81,
+        "player": {
+          "id": 53249,
+          "nickname": "血雪白焰（说话没声音）",
+          "updatedAt": "2024-04-01T13:08:48.000Z"
+        },
+        "score": 132719,
+        "lastPlayedAt": "2024-04-01T13:08:48.000Z"
+      },
+      {
+        "sort": 82,
+        "player": {
+          "id": 42438,
+          "nickname": "chgcx",
+          "updatedAt": "2024-05-21T01:16:45.000Z"
+        },
+        "score": 131526,
+        "lastPlayedAt": "2024-05-21T01:16:45.000Z"
+      },
+      {
+        "sort": 83,
+        "player": {
+          "id": 42275,
+          "nickname": "丁香花",
+          "updatedAt": "2024-05-21T04:33:43.000Z"
+        },
+        "score": 130897,
+        "lastPlayedAt": "2024-05-21T04:33:43.000Z"
+      },
+      {
+        "sort": 84,
+        "player": {
+          "id": 66380,
+          "nickname": "VR卡森一号",
+          "updatedAt": "2024-05-19T11:13:56.000Z"
+        },
+        "score": 130268,
+        "lastPlayedAt": "2024-05-19T11:13:56.000Z"
+      },
+      {
+        "sort": 85,
+        "player": {
+          "id": 52476,
+          "nickname": "玖岚一缕",
+          "updatedAt": "2023-11-19T15:04:53.000Z"
+        },
+        "score": 130233,
+        "lastPlayedAt": "2023-11-19T15:04:53.000Z"
+      },
+      {
+        "sort": 86,
+        "player": {
+          "id": 55390,
+          "nickname": "拉环",
+          "updatedAt": "2024-04-19T14:18:10.000Z"
+        },
+        "score": 129828,
+        "lastPlayedAt": "2024-04-19T14:18:10.000Z"
+      },
+      {
+        "sort": 87,
+        "player": {
+          "id": 52582,
+          "nickname": "木汐",
+          "updatedAt": "2024-04-19T12:21:33.000Z"
+        },
+        "score": 129815,
+        "lastPlayedAt": "2024-04-19T12:21:33.000Z"
+      },
+      {
+        "sort": 88,
+        "player": {
+          "id": 580,
+          "nickname": "kk冲向前★Kirk",
+          "updatedAt": "2024-03-07T03:14:27.000Z"
+        },
+        "score": 128831,
+        "lastPlayedAt": "2024-03-07T03:14:27.000Z"
+      },
+      {
+        "sort": 89,
+        "player": {
+          "id": 1943,
+          "nickname": "指针屋",
+          "updatedAt": "2024-05-21T00:27:37.000Z"
+        },
+        "score": 128695,
+        "lastPlayedAt": "2024-05-21T00:27:37.000Z"
+      },
+      {
+        "sort": 90,
+        "player": {
+          "id": 52605,
+          "nickname": "乐团gai溜子",
+          "updatedAt": "2024-05-18T12:15:32.000Z"
+        },
+        "score": 128459,
+        "lastPlayedAt": "2024-05-18T12:15:32.000Z"
+      },
+      {
+        "sort": 91,
+        "player": {
+          "id": 70179,
+          "nickname": "饲主",
+          "updatedAt": "2024-03-24T00:33:10.000Z"
+        },
+        "score": 127671,
+        "lastPlayedAt": "2024-03-24T00:33:10.000Z"
+      },
+      {
+        "sort": 92,
+        "player": {
+          "id": 53234,
+          "nickname": "大大48",
+          "updatedAt": "2024-04-10T01:15:56.000Z"
+        },
+        "score": 127434,
+        "lastPlayedAt": "2024-04-10T01:15:56.000Z"
+      },
+      {
+        "sort": 93,
+        "player": {
+          "id": 2435,
+          "nickname": "风落夕",
+          "updatedAt": "2024-05-14T13:28:30.000Z"
+        },
+        "score": 127093,
+        "lastPlayedAt": "2024-05-14T13:28:30.000Z"
+      },
+      {
+        "sort": 94,
+        "player": {
+          "id": 54672,
+          "nickname": "顺虞",
+          "updatedAt": "2024-05-03T05:29:17.000Z"
+        },
+        "score": 126779,
+        "lastPlayedAt": "2024-05-03T05:29:17.000Z"
+      },
+      {
+        "sort": 95,
+        "player": {
+          "id": 9902,
+          "nickname": "死人",
+          "updatedAt": "2024-05-03T12:13:58.000Z"
+        },
+        "score": 126453,
+        "lastPlayedAt": "2024-05-03T12:13:58.000Z"
+      },
+      {
+        "sort": 96,
+        "player": {
+          "id": 37122,
+          "nickname": "微灵梓沐的老头乐",
+          "updatedAt": "2024-05-19T12:31:10.000Z"
+        },
+        "score": 126304,
+        "lastPlayedAt": "2024-05-19T12:31:10.000Z"
+      },
+      {
+        "sort": 97,
+        "player": {
+          "id": 12294,
+          "nickname": "铭月珖",
+          "updatedAt": "2024-05-21T02:07:52.000Z"
+        },
+        "score": 125962,
+        "lastPlayedAt": "2024-05-21T02:07:52.000Z"
+      },
+      {
+        "sort": 98,
+        "player": {
+          "id": 1037,
+          "nickname": "海基王",
+          "updatedAt": "2024-04-20T08:56:08.000Z"
+        },
+        "score": 125611,
+        "lastPlayedAt": "2024-04-20T08:56:08.000Z"
+      },
+      {
+        "sort": 99,
+        "player": {
+          "id": 12900,
+          "nickname": "那些年月",
+          "updatedAt": "2024-05-14T13:53:55.000Z"
+        },
+        "score": 125485,
+        "lastPlayedAt": "2024-05-14T13:53:55.000Z"
+      },
+      {
+        "sort": 100,
+        "player": {
+          "id": 63115,
+          "nickname": "KevinClain",
+          "updatedAt": "2024-05-18T14:50:12.000Z"
+        },
+        "score": 124706,
+        "lastPlayedAt": "2024-05-18T14:50:12.000Z"
+      }
+    ],
+    "picoBBSRankList": [],
+    "activityInfo": {
+      "id": 3,
+      "name": "夏季赛",
+      "startAt": "2023-06-09T16:00:00.000Z",
+      "endAt": "2023-07-31T15:59:59.000Z",
+      "lotteryAt": "2023-08-02T04:00:00.000Z",
+      "lotteryEndAt": "2023-08-12T04:00:00.000Z"
+    }
+  }
+}

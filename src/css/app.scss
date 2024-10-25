@@ -1,0 +1,81 @@
+// app global css in SCSS form
+html,
+body {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    overflow: hidden;
+}
+
+:root {
+    --page-width: 1170px;
+    --blue:#4285f4;
+    --title-display: "block";
+}
+
+img {
+    user-select: none;
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+    width: 12px; /* 滚动条宽度 */
+    height: 8px;
+  }
+  
+  /* 滚动条轨道 */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; /* 滚动条轨道的背景色 */
+  }
+  
+  /* 滚动条拇指（thumb） */
+  ::-webkit-scrollbar-thumb {
+    background: #888; /* 滚动条拇指的背景色 */
+    border-radius: 5px; /* 滚动条拇指的圆角 */
+  }
+  
+  /* 滚动条拇指悬停时的样式 */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; /* 滚动条拇指悬停时的背景色 */
+  }
+
+  .text-body2 {
+    line-height: unset;
+    letter-spacing: unset;
+  }
+
+  .opt-ipt-center {
+    text-align: center;
+  }
+
+  .ipt-inline {
+    display: inline-block;
+    width: 150px;
+  }
+  .color-ipt{
+    width: 80px;
+  }
+
+  a{
+    color: #333;
+    text-decoration: none;
+  }
+
+  .q-notifications__list--top{
+    top: 50px;
+  }
+
+   .options-back-ipt {
+    height: 40px;
+    padding-bottom: 0;
+    .q-field__control {
+      height: 100%;
+    }
+    .q-field__append {
+      height: 100%;
+    }
+  }
+
+  .noDrag {
+    -webkit-app-region: no-drag;
+  }
